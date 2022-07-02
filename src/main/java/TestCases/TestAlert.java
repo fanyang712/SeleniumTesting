@@ -37,6 +37,8 @@ public class TestAlert {
 		System.out.println(alert.getText());
 		alert.accept();
 		
+		//complete
+		
 		
 		
 		
